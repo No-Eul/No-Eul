@@ -1,4 +1,4 @@
-# [N0Eul](https://github.com/N0Eul)
+# [NoEul](https://github.com/No-Eul)
 
 ### 노을 / NoEul
 
