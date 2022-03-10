@@ -35,11 +35,11 @@ Just enjoy it for fun. 그냥 재미로만 즐겨주세요.
     <td>The ability of the extent to use power of twilight<br/>해질녘의 힘을 다루는 정도의 능력</td>
   </tr>
   <tr>
-    <th>Dangerous<br/>Degree<br/>위험도</th>
+    <th>How<br/>Dangerous<br/>위험도</th>
     <td>Great<br/>높음</td>
   </tr>
   <tr>
-    <th>Unhostile Degree<br/>to Human<br/>인간 우호도</th>
+    <th>Unhostility<br/>to Human<br/>인간 우호도</th>
     <td>Less<br/>낮음</td>
   </tr>
 </table>
