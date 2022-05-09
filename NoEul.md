@@ -31,7 +31,7 @@ Description of person to exist. 실존하는 사람에 대한 설명.
     </tr>
     <tr>
       <th>Residence<br/>사는 곳</th>
-      <td>Suwon-si, Gyeonggi-do, Korea, Republic of<br/>대한민국 경기도 수원시</td>
+      <td>Gyeonggi-do, Korea, Republic of<br/>대한민국 경기도</td>
     </tr>
   </tbody>
 </table>
@@ -46,9 +46,10 @@ What I do | 내가 하는 것들
     * KakaoTalk Bot 카카오톡 봇
     * Java Program 자바 프로그램
     * Android Application 안드로이드 앱
+    * Minecraft Fabric Mod 마인크래프트 Fabric 모드
     * ~~Minecraft Plugin 마인크래프트 플러그인~~
   * Frequently Used IDE / 자주 사용하는 프로그램
-    * IntelliJ IDEA Community Edition (Java)
+    * IntelliJ IDEA (Java)
     * Android Studio (Java/Android)
     * Visual Studio Code
 
@@ -61,6 +62,7 @@ What I do | 내가 하는 것들
 
 * Minecraft / 마인크래프트
   * Server of Joining Often / 자주 들어가는 서버
+    * [Konggal Server](https://konggal.tv/) 공갈서버 (Head SMP)
     * [Hypixel](https://hypixel.net/) 하이픽셀 ~~Laggpixel~~
 
 
