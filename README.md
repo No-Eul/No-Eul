@@ -1,6 +1,6 @@
 <h1 align="center">Hi, there! 👋 I'm NoEul. :3</h1>
 
-<p style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=No-Eul&theme=dracula&hide_border=false&count_private=true&show_icons=true" style="height: 10em;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=No-Eul&theme=dracula&hide_border=false&layout=compact" style="height: 10em;">
 </p>
