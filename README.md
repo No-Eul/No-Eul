@@ -13,6 +13,6 @@
 
 <h2 align="center">NoEul's <a href="https://solved.ac/">solved.ac</a> Stats</h2>
 <p align="center">
-    <a href="https://solved.ac/noeul"><img src="https://mazassumnida.wtf/api/generate_badge?boj=noeul"></a>
+    <a href="https://solved.ac/noeul"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=noeul"></a>
     <a href="https://solved.ac/noeul"><img src="https://mazandi.herokuapp.com/api?handle=noeul"></a>
 </p>
